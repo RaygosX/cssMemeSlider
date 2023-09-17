@@ -115,7 +115,7 @@ body {
 
 .radio:active {
   background-color:darkgreen;
-  border: 0.02rem solid darkgreen;
+  border: 0.05rem solid darkgreen;
 }
 
 .slider_text-inner {
