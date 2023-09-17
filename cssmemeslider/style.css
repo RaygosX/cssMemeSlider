@@ -168,19 +168,19 @@ body {
 
 #slide1:checked ~ .slider_bottom-inner .slider_label .radio1 {
   background: linear-gradient(90deg, darkgreen 0%, lightblue 100%);
-  border: 0.02rem solid darkgreen;
+  border: 0.2rem solid black;
 }
 #slide2:checked ~ .slider_bottom-inner .slider_label .radio2 {
   background: linear-gradient(90deg, darkgreen 0%, lightblue 100%);
-  border: 0.02rem solid darkgreen;
+  border: 0.2rem solid black;
 }
 #slide3:checked ~ .slider_bottom-inner .slider_label .radio3 {
   background: linear-gradient(90deg, darkgreen 0%, lightblue 100%);
-  border: 0.02rem solid darkgreen;
+  border: 0.2rem solid black;
 }
 #slide4:checked ~ .slider_bottom-inner .slider_label .radio4 {
   background: linear-gradient(90deg, darkgreen 0%, lightblue 100%);
-  border: 0.02rem solid darkgreen;
+  border: 0.2rem solid black;
 }
 
 #slide1:checked ~ .slider_bottom-inner .slider_text-items {
